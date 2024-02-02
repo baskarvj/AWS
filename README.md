@@ -1,15 +1,15 @@
-What is cloud computing ?
+## What is cloud computing ?
 
 Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing. Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services, such as computing power, storage, and databases, on an as-needed basis from a cloud provider like Amazon Web Services (AWS).
 
-Types of cloud computing ?
+## Types of cloud computing ?
 
   Three types of cloud computing are :
 •	public cloud  cloud 
 •	private cloud  on-premises
 •	hybrid cloud   (on-premises & cloud)
 
-Types of cloud computing  Service models?
+## Types of cloud computing  Service models?
 
   The three types of  cloud computing service models are :
 
@@ -18,15 +18,14 @@ Types of cloud computing  Service models?
 •	(SaaS)  Software as a Service 
 
  
+## Account creation
 
-Account creation
-
-Install Mobaxterm 
+## Install Mobaxterm 
 Portable edition
 
 
 
-Difference between an AWS Region and Availability Zone:
+## Difference between an AWS Region and Availability Zone:
 
 1. AWS Regions are large and widely dispersed into separate geographic locations. Availability Zones are distinct locations within an AWS Region.
 2. A region can have multiple Availability Zones, but an Availability Zone cannot belong to more than one Region.
@@ -63,13 +62,13 @@ sa-east-1b
 
 
 
-EC2 (Elastic compute cloud)  Creation
+## EC2 (Elastic compute cloud)  Creation
 
 By default, AWS has a limit of 20 instances per region. This includes all instances set up on your AWS account. To increase EC2 limits, request a higher limit by providing information about the new limit and regions where it should be applied.
 
 
 
-Protocal:
+## Protocal:
 SSH 22
 HTTP 80
 HTTPS 443
@@ -77,7 +76,7 @@ FTP 20-21
 RDP 3389
 
 
-Windows  3389,80,443  server manager  webserver(iis)  next next  install 
+## Windows  3389,80,443  server manager  webserver(iis)  next next  install 
 
-Template 
+## Template 
 https://www.free-css.com/free-css-templates
