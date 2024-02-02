@@ -7,7 +7,9 @@ Cloud computing is the on-demand delivery of IT resources over the Internet with
   Three types of cloud computing are :
   
 •	public cloud  cloud 
+
 •	private cloud  on-premises
+
 •	hybrid cloud   (on-premises & cloud)
 
 ## Types of cloud computing  Service models?
